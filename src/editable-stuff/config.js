@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Muhammad",
   middleName: "",
   lastName: "Gberejaye",
-  message: " Contributing to the world's technology. ",
+  message: " Contributing to the world's digital technology. ",
   icons: [
     {
       image: "fa-github",
@@ -98,12 +98,12 @@ const skills = {
   hardSkills: [
     { name: "JavaScript", value: 90 },
     { name: "CSS", value: 85 },
-    { name: "HTML", value: 85 },
-    { name: "Node", value: 60 },
+    { name: "HTML", value: 90 },
+    { name: "Node", value: 65 },
     { name: "React-Redux", value: 85 },
-    { name: "Material-UI", value: 75 },
-    { name: "SQLITE", value: 55 },
-    { name: "Data Structures", value: 60 },
+    { name: "Next Js", value: 75 },
+    { name: "SQLITE", value: 65 },
+    { name: "Word Press", value: 85 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -122,7 +122,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm constantly searching for full-time software development opportunities! If you know of any positions available or you have any questions for me, please feel free to email me at",
+    "I'm constantly searching for software development job opportunities! If you know of any positions available or you have any questions for me, please feel free to email me at",
   email: "muhammad17gb@gmail.com",
 };
 
