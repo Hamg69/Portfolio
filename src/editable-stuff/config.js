@@ -51,7 +51,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Muhammad Gberejaye. I’m a front end developer and I am most passionate about building nice user interfaces for the web. My goal is to pursue career opportunities within this field of software engineering, so in my free time I like to work on open source projects.",
-  resume: "https://drive.google.com/file/d/1SaWtY5e-27LygD4wDi7h6DdlxbnwxTjG/view?usp=sharing",
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
